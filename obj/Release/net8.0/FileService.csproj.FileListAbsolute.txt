@@ -1,0 +1,11 @@
+C:\proyecto pw2022\Blog\Net8\FileService\bin\Release\net8.0\FileService.deps.json
+C:\proyecto pw2022\Blog\Net8\FileService\bin\Release\net8.0\FileService.dll
+C:\proyecto pw2022\Blog\Net8\FileService\bin\Release\net8.0\FileService.pdb
+C:\proyecto pw2022\Blog\Net8\FileService\obj\Release\net8.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto pw2022\Blog\Net8\FileService\obj\Release\net8.0\FileService.AssemblyInfoInputs.cache
+C:\proyecto pw2022\Blog\Net8\FileService\obj\Release\net8.0\FileService.AssemblyInfo.cs
+C:\proyecto pw2022\Blog\Net8\FileService\obj\Release\net8.0\FileService.csproj.CoreCompileInputs.cache
+C:\proyecto pw2022\Blog\Net8\FileService\obj\Release\net8.0\FileService.dll
+C:\proyecto pw2022\Blog\Net8\FileService\obj\Release\net8.0\refint\FileService.dll
+C:\proyecto pw2022\Blog\Net8\FileService\obj\Release\net8.0\FileService.pdb
+C:\proyecto pw2022\Blog\Net8\FileService\obj\Release\net8.0\ref\FileService.dll
