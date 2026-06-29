@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\proyecto pw2022\\Blog\\Net8\\FileService\\",
+  "WorkspaceRootPath": "C:\\proyecto pw2025\\Blog\\Net8\\FileService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B742859-60CF-4906-AAE5-BC45BAF23DCE}|FileService.csproj|c:\\proyecto pw2022\\blog\\net8\\fileservice\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B742859-60CF-4906-AAE5-BC45BAF23DCE}|FileService.csproj|c:\\proyecto pw2025\\blog\\net8\\fileservice\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B742859-60CF-4906-AAE5-BC45BAF23DCE}|FileService.csproj|solutionrelative:fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\proyecto pw2022\\Blog\\Net8\\FileService\\FileService.cs",
+              "DocumentMoniker": "C:\\proyecto pw2025\\Blog\\Net8\\FileService\\FileService.cs",
               "RelativeDocumentMoniker": "FileService.cs",
-              "ToolTip": "C:\\proyecto pw2022\\Blog\\Net8\\FileService\\FileService.cs",
+              "ToolTip": "C:\\proyecto pw2025\\Blog\\Net8\\FileService\\FileService.cs",
               "RelativeToolTip": "FileService.cs",
-              "ViewState": "AQIAAOUAAAAAAAAAAAAkwP8AAAABAAAA",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAqwCwBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T08:34:17.62Z",
               "EditorCaption": ""
@@ -46,6 +50,16 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 773,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }
